@@ -1,0 +1,12 @@
+Click
+dnspython
+email-validator
+fastapi
+h11
+httptools
+idna
+pydantic
+starlette
+uvicorn
+uvloop
+websockets
